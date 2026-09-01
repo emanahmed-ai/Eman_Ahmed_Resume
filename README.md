@@ -33,4 +33,5 @@ I am a dedicated Data Analyst and AI Practitioner with a strong foundation in bu
 ### 📬 Get in Touch
 * **GitHub:** [emanahmed-ai](https://github.com/emanahmed-ai)
 * **LinkedIn:** [Eman Ahmed](https://www.linkedin.com/in/eman-ahmed25/)
+**Portfolio:** [Portfolio](https://my-awesome-showcase-110.lovable.app)
 * **Freelance Services:** Available on Khamsat, Upwork, and Nafezly for dashboard design and analytics solutions.
